@@ -1,1 +1,1 @@
-# C---Coding---Challenge
+# C-Coding-Challenge
