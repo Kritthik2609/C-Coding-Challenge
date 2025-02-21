@@ -9,7 +9,7 @@ scanf("%d", &num);
 f = 1;
 i = num;
 
-if (i >= 0) {
+if (num >= 0) {
 
 	while (i > 0) {
 
