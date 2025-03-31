@@ -19,7 +19,7 @@ printf("Enter the height of cylinder: ");
 scanf("%f", &h);
 
 custom1 = area_of_circle(r1);
-custom2 = surface_area_of_cylinder(r, h);
+custom2 = surface_area_of_cylinder(r2, h);
 
 printf("The area of the circle is: %.2f sq.units \n", custom1);
 printf("The surface area of the cylinder is: %.2f sq.units \n", custom2);
